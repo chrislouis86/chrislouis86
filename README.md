@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Neural Network in Python**
 
-- 🌱 I’m currently learning **Machine learning, starting with understanding Logistic Regression.**
+- 🌱 I’m curently learning the theorical side of **Machine learning, beginning with Logistic Regression.**
 
 - 📫 How to reach me **christophermorgan86@outlook.com**
 
