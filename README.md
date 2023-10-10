@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Morgan</h1>
-<h3 align="center">I am Graduate junior developer my core programs are C++ and Python</h3>
+<h3 align="center">I am a recent Graduate junior developer. My core programs are C++and Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislouis86&label=Profile%20views&color=0e75b6&style=flat" alt="chrislouis86" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Neural Network in Python**
 
-- 🌱 I’m curently learning the theorical side of **Machine learning, beginning with Logistic Regression.**
+- 🌱 I’m curently learning the theorical side of **Machine learning, beginning with Logistic Regression.** 
 
 - 📫 How to reach me **christophermorgan86@outlook.com**
 
