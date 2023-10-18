@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Morgan</h1>
-<h3 align="center">I recently graduated and am starting my career as a junior developer. My core programmes are C++ and Python. 
+<h3 align="center">I recently graduated with my bachelor's degree, and I'm beginning a career as a junior developer. My main languages are C++ and Python for machine learning.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislouis86&label=Profile%20views&color=0e75b6&style=flat" alt="chrislouis86" /> </p>
 
