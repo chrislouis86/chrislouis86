@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrislouis86" alt="chrislouis86" /></a> </p>
 
-- 🔭 I’m currently working on **Neural Network in Python**
+- 🔭 I’m currently working on ** Machine Learning application in Python applying classification **
 
 - 🌱 I’m curently learning the theorical side of **Machine learning, beginning with Logistic Regression.** 
 
