@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chris Morgan</h1>
-<h3 align="center">I recently graduated with my bachelor's degree, and I'm beginning a career as a junior developer. My main languages are C++ and Python for machine learning.
+<h3 align="center">I recently graduated with my bachelor's degree, in Computer, Audio & Music Techology Aud and I'm beginning a career as a junior developer. My main languages are C++ and Python for machine learning. I w
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislouis86&label=Profile%20views&color=0e75b6&style=flat" alt="chrislouis86" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrislouis86" alt="chrislouis86" /></a> </p>
 
-- 🔭 I’m currently working on ** Machine Learning application in Python applying classification **
+- 🔭 I’m currently working on ** Machine Learning application in Python applying classification using supervised learning from a dataset**
 
 - 🌱 I’m curently learning the theorical side of **Machine learning, beginning with Logistic Regression.** 
 
