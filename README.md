@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Morgan</h1>
-<h3 align="center">I recently graduated with my bachelor's degree, in Computer, Audio & Music Techology Aud and I'm beginning a career as a junior developer. My main languages are C++ and Python for machine learning. 
+<h3 align="center">I recently graduated with my bachelor's degree, in Computer, Audio & Music Techology Aud and I'm beginning a career as a junior developer. My main languages are C++ and Python. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislouis86&label=Profile%20views&color=0e75b6&style=flat" alt="chrislouis86" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on ** Machine Learning application in Python applying classification using supervised learning from a dataset. For my final year project I developed Deep learning Music Genre Classfication - Classifying the genre of a music using deep learning networks**
 
-- 🌱 I’m currently reading on the theoretical side of **machine learning, beginning with logistic regression. I first developed an interest in machine learning and deep learning during my 2nd year of university, when I was first introduced to the subject in one of my modules, where I was required to write a literature review on a research paper titled "Improved Musical Onset Detection with Convolutional Neural Networks by Jan Schlüter and Sebastian Böck. The final year for my dissertation, Title was "The Challenges of Deep Learning in Music Generation",  my dissertation advisor was, Dr. George Sioros.**
+- 🌱 I’m currently reading on the theoretical side of **machine learning, beginning with logistic regression. I first developed an interest in machine learning and deep learning during my 2nd year of university, when I was first introduced to the subject in one of my modules, where I was required to write a literature review on a research paper titled "Improved Musical Onset Detection with Convolutional Neural Networks by Jan Schlüter and Sebastian Böck. The final year for my dissertation, Title was "The Challenges of Deep Learning in Music Generation", my dissertation advisor was, Dr. George Sioros.**
 
 - 📫 How to reach me **christophermorgan86@outlook.com**
 
