@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrislouis86" alt="chrislouis86" /></a> </p>
 
-- 🔭 I’m currently working on ** Machine Learning application in Python applying classification using supervised learning from a dataset. For my final year project I developed Deep learning Music Genre Classfication - Classifying the genre of a music using deep learning networks**
+- 🔭 I’m currently working on ** Machine Learning application in Python applying classification using supervised learning from a dataset. For my final year project I developed Deep learning Music Genre Classfication - Classifying the genre of a music using deep learning**
 
 - 🌱 I’m currently reading on the theoretical side of **machine learning, beginning with logistic regression. I first developed an interest in machine learning and deep learning during my 2nd year of university, when I was first introduced to the subject in one of my modules, where I was required to write a literature review on a research paper titled "Improved Musical Onset Detection with Convolutional Neural Networks by Jan Schlüter and Sebastian Böck. The final year for my dissertation, Title was "The Challenges of Deep Learning in Music Generation", my dissertation advisor was, Dr. George Sioros.**
 
