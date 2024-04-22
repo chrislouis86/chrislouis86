@@ -3,7 +3,7 @@
 
 I started learning C++ at the university in my first year, applying the C++ skills to develop audio programming applications, for example, VST (virtual software instruments). 
 
-In my 3rd final year I was introduced to Python,Jupyter Notebook furthermore Librosa which is a python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems. 
+In my third and final year, I was introduced to Python, Jupyter Notebook, and Librosa, which is a Python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislouis86&label=Profile%20views&color=0e75b6&style=flat" alt="chrislouis86" /> </p>
 
