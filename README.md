@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris Morgan</h1>
 <h3 align="center">I recently graduated with my bachelor's degree, in Computer, Audio & Music Techology and I'm beginning a career as a junior developer. My main languages are C++ and Python. 
 
-I started learning C++ at the university in my first year, applying the C++ skills to develop audio programming applications, for example, VST (virtual software instruments). 
+I started learning C++ at university in my first year, applying the C++ skills to develop audio programming applications, for example, VST (virtual software instruments). 
 
 In my third and final year, I was introduced to Python, Jupyter Notebook, and Librosa, which is a Python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems. 
 
