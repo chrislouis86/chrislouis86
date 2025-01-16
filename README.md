@@ -5,6 +5,9 @@
 
 In my third and final year, I was introduced to Python, Jupyter Notebook, and Librosa, which is a Python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems. The final year for my dissertation, Title was "The Challenges of Deep Learning in Music Generation", my dissertation advisor was, Dr. George Sioros.**
 
+- 🔭 I’m currently working on ** Machine Learning application in Python applying classification using supervised learning from a datasets.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrislouis86&label=Profile%20views&color=0e75b6&style=flat" alt="chrislouis86" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrislouis86" alt="chrislouis86" /></a> </p>
