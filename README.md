@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chris Morgan</h1>
 <h3 align="center"> Graduate with my bachelor's degree, in Computer, Audio & Music Techology and I'm beginning a career as a junior machine learning engineer/software developer. My main languages are C++ and Python. I started learning C++ at university in my first year, applying the C++ skills to develop audio programming applications, for example, VST (virtual software instruments). 
 
-- 🌱 I’m currently reading on the theoretical side of **machine learning, beginning with logistic regression. I first developed an interest in machine learning and deep learning during my 2nd year of university, when I was first introduced to the subject in one of my modules, where I was required to write a literature review on a research paper titled "Improved Musical Onset Detection with Convolutional Neural Networks by Jan Schlüter and Sebastian Böck. 
+- 🌱 I’m currently reading on the theoretical side of **machine learning, beginning with logistic regression.
+- I first developed an interest in machine learning and deep learning during my 2nd year of university, when I was first introduced to the subject in one of my modules, where I was required to write a literature review on a research paper titled "Improved Musical Onset Detection with Convolutional Neural Networks by Jan Schlüter and Sebastian Böck. 
 
 In my third and final year, I was introduced to Python, Jupyter Notebook, and Librosa, which is a Python package for music and audio analysis. It provides the building blocks necessary to create music information retrieval systems. The final year for my dissertation, Title was "The Challenges of Deep Learning in Music Generation", my dissertation advisor was, Dr. George Sioros.**
 
