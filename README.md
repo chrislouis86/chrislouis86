@@ -32,6 +32,6 @@ In my third and final year, I was introduced to Python, Jupyter Notebook, and Li
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrislouis86&" alt="chrislouis86" /></p>
 
-https://skillicons.dev/icons?i=python,cpp,matlab,arduino,scikitlearn,tensorflow,gcp,aws,latex,windows,visualstudio,stackoverflow,ableton,apple&theme=dark&perline=15
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,matlab,arduino,scikitlearn,tensorflow,gcp,aws,latex,windows,visualstudio,stackoverflow,ableton,apple&theme=dark&perline=5)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
