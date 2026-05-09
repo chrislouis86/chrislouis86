@@ -23,7 +23,7 @@ In my third and final year, I was introduced to Python, Jupyter Notebook, and Li
 <h3 align="left">Languages and Tools:</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,matlab,arduino,scikitlearn,tensorflow,gcp,aws,latex,windows,visualstudio,stackoverflow,apple&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,matlab,arduino,scikitlearn,tensorflow,gcp,aws,latex,windows,visualstudio,stackoverflow,apple&theme=dark&perline=15)](https://skillicons.dev)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/christophem1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="christophem1" /></a></p><br><br>
